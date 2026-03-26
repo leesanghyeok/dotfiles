@@ -16,6 +16,20 @@ The script will:
 
 ## Contents
 
+### `.zshrc`
+
+**Framework:** Oh My Zsh
+
+**Theme:** Powerlevel10k (via Homebrew)
+
+**Plugins:** git, zsh-autosuggestions, zsh-syntax-highlighting, zsh-completions, extract, copypath, copyfile, docker, kubectl
+
+**Tools:** zoxide, thefuck, fzf
+
+**Local overrides:** `~/.zshrc.local` (gitignored, machine-specific)
+
+---
+
 ### `.tmux.conf`
 
 **Theme:** Catppuccin (dark)

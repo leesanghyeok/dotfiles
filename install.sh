@@ -42,9 +42,9 @@ link_config() {
 }
 
 link .zshrc
+link .p10k.zsh
 link .gitconfig
 link .tmux.conf
-link_config .config/starship.toml
 
 echo ""
 echo "Done!"
